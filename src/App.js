@@ -156,7 +156,7 @@ const MarketplaceApp = () => {
               <Store className="w-7 h-7 text-blue-600" />
             </div>
             <div className="hidden md:block">
-              <h1 className="text-white font-bold text-xl">MarketPlace</h1>
+             <h1 className="text-white font-bold text-xl">🛒 Meu Super Mercado</h1>
               <p className="text-blue-100 text-xs">Multi-Lojas</p>
             </div>
           </div>
